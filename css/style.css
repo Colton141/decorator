@@ -3,23 +3,28 @@ h1{
 }
 
 .pic{
-  width: 400px;
-  height: 350px;
+  float: left;
+  width: 350px;
+  height: 300px;
 }
 
 .pic1{
+  margin: 2px;
+  background-color: grey;
   float: left;
+  width: 31%;
 }
 
 .pic2{
+  margin-left: 33px;
+  background-color: grey;
+  width: 31%;
   float: right;
 }
 
 .pic3{
+  margin: 2px;
+  background-color: grey;
   float: right;
-}
-
-.picture{
-  float: left;
-
+  width: 31%;
 }
